@@ -1,0 +1,17 @@
+.l1{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0px;
+
+
+}
+.l2{
+    font-size: 20px;
+    color: grey;
+    text-align: center;
+    margin-top: 20px;
+}
+.td{
+    text-decoration: underline;
+}
